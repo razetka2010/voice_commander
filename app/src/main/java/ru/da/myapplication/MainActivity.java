@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity {
                 imMain.setImageResource(R.drawable.vaca_lista);
                 break;
 
-            case "протокол самоуничтожение":
+            case "протокол самоуничтожения":
                 protocolDist();
                 break;
             case "кто будет призидентом США":
