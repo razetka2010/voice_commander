@@ -102,7 +102,7 @@ public class MainActivity extends AppCompatActivity {
             case "протокол самоуничтожения":
                 protocolDist();
                 break;
-            case "кто будет призидентом США":
+            case "кто будет призидентом сша":
                 textToSpeech.speak("я", textToSpeech.QUEUE_FLUSH, null);
                 break;
 
